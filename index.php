@@ -10,7 +10,7 @@
 					:
 				</td>
 				<td>
-					Faruq
+					Zuhad Achmad Fachrian
 				</td>
 			</tr>
 			<tr>
@@ -21,7 +21,7 @@
 					:
 				</td>
 				<td>
-					2110151059
+					3120640004
 				</td>
 			</tr>
 			<tr>
@@ -32,7 +32,7 @@
 					:
 				</td>
 				<td>
-					3 D4 ITB
+					D4LJ 2020
 				</td>
 			</tr>
 		</table>
@@ -215,7 +215,7 @@
 			$('#tbodyTraining').append(
 				'<tr>'+
 					'<td>'+
-						(dataCount+1)+
+						(dataCount)+
 					'</td>'+
 					'<td>'+
 						'<select name="sky'+dataCount+'" id="sky'+dataCount+'">'+
@@ -424,7 +424,7 @@ document.getElementById('enjoy').innerHTML = hipotesa[7];
 	 	}
 		
 		 if(validate==0){
-		 	document.getElementById('enjoytest').innerHTML = "??";
+		 	document.getElementById('enjoytest').innerHTML = "NO";
 		 }
 		 else{
 		 	document.getElementById('enjoytest').innerHTML = "YES";
